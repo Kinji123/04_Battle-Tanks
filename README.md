@@ -8,6 +8,5 @@
 + Calling C++ code from Blueprint.
 + And much more.
 
-### 2 S03 Game Design Document (GDD) ###
-
+### 2 S03 Game Design Document (GDD) ### 
 The Concept, Rules and Requirements of our simple game.
